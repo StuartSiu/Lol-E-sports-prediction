@@ -1,10 +1,8 @@
 # League of Legends E-Sports Match Prediction
 
-Course: STAT 440, Fall 2025   
-
-Instructor: Lloyd Elliott   
-
-Team Members: Stuart Siu, Elysa Lin, Geoffrey Ze-Yu Gao, Varinder Singh, Min Kaung Khant   
+Course: STAT 440, Fall 2025 
+Instructor: Lloyd Elliott 
+Team Members: Stuart Siu, Elysa Lin, Geoffrey Ze-Yu Gao, Varinder Singh, Min Kaung Khant 
 
 ## Access Note: 
 To comply with academic integrity policies, the raw datasets and source code for this project have been compressed into a password-protected .rar file within this repository. The methodology and some EDA visuals remain public. 
